@@ -1,0 +1,17 @@
+create a game where you are given one feeling category and then you try to guess all the related feelings.
+add the ability to get a hint.
+
+convert feelings into objects that have attributes like:
+- pleasentness -9 to 9
+- energy -9 to 9
+- emotion true/false
+- belonging to general categories
+
+add eytomologies to feelings, probably in seperate file
+add the ability to request an eytomology at any time. #regex? (e 'feeling')
+
+eventually create the django database that will track my use of all of the rosenbot games, high scores, etc.
+
+using the database, allow user to pair feelings with met needs and unmet needs for future reference by rosenbot.
+
+connects that activities needs spreadsheet for future reference by rosenbot.

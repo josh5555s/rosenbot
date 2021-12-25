@@ -1,0 +1,8 @@
+Script started on 2020-05-10 18:36:29-0700
+]0;josh@Home-GPU: /mnt/c/Users/Josh/Google Drive/Websites/Python/ATBS[01;32mjosh@Home-GPU[00m:[01;34m/mnt/c/Users/Josh/Google Drive/Websites/Python/ATBS[00m$ --[K[Kpython 3 -version
+python: can't open file '3': [Errno 2] No such file or directory
+]0;josh@Home-GPU: /mnt/c/Users/Josh/Google Drive/Websites/Python/ATBS[01;32mjosh@Home-GPU[00m:[01;34m/mnt/c/Users/Josh/Google Drive/Websites/Python/ATBS[00m$ ls
+[0m[01;32mscript.py[0m  [01;32mtypescript[0m
+]0;josh@Home-GPU: /mnt/c/Users/Josh/Google Drive/Websites/Python/ATBS[01;32mjosh@Home-GPU[00m:[01;34m/mnt/c/Users/Josh/Google Drive/Websites/Python/ATBS[00m$ python3 --version
+Python 3.6.7
+]0;josh@Home-GPU: /mnt/c/Users/Josh/Google Drive/Websites/Python/ATBS[01;32mjosh@Home-GPU[00m:[01;34m/mnt/c/Users/Josh/Google Drive/Websites/Python/ATBS[00m$ [K]0;josh@Home-GPU: /mnt/c/Users/Josh/Google Drive/Websites/Python/ATBS[01;32mjosh@Home-GPU[00m:[01;34m/mnt/c/Users/Josh/Google Driv
