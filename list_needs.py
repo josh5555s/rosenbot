@@ -11,7 +11,6 @@ needs_connection = [
     "companionship",
     "compassion",
     "consideration",
-    "empathy",
     "inclusion",
     "intimacy",
     "love",
@@ -21,11 +20,9 @@ needs_connection = [
     "security",
     "stability",
     "support",
-    "to be heard",
-    "to know",
+    "to receive empathy",
+    "to empathize",
     "to be known",
-    "to see",
-    "to be seen",
     "to understand",
     "to be understood",
     "warmth",
@@ -99,6 +96,7 @@ needs_physical = [
     "safety",
     "touch",
     "water",
+    "laughter",
 ]
 
 needs_all = (

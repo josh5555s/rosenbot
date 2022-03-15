@@ -2,8 +2,10 @@
 
 
 feelings_compassionate = [
+    "absorbed",
     "compassion",
     "loving",
+    "open",
     "warm",
     "tender",
     "nurturing",
@@ -111,7 +113,7 @@ feelings_loving = [
 
 feelings_peaceful = [
     "absorbed",
-    "blissfull",
+    "blissful",
     "calm",
     "comfortable",
     "content",
@@ -302,13 +304,11 @@ feelings_sad = [
     "gloomy",
     "grieving",
     "heavy",
-    "helpless",
     "lonely",
     "melancholy",
     "miserable",
     "pessimistic",
     "sad",
-    "troubled",
     "unhappy",
     "wistful",
 ]
@@ -325,11 +325,6 @@ feelings_scared = [
     "foreboding",
     "forlorn",
     "gloomy",
-    "heavy hearted",
-    "hopeless"
-    "forlorn",
-    "gloomy",
-    "heavy hearted",
     "hopeless"
     "frightened",
     "guarded",
@@ -347,6 +342,7 @@ feelings_scared = [
     "startled",
     "terrified",
     "trepidation"
+    "troubled",
     "wary"
     "worried",
 ]
